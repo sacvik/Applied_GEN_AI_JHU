@@ -13,6 +13,7 @@ This repository builds upon original coursework from the JHU Applied GEN AI prog
 * 💡 Expanding the scope beyond the course requirements
 * 🔍 Injecting my own vision and problem-solving strategies
 * 🚧 Pushing the boundaries of what each project initially set out to achieve
+* 🔄 Redesigning and rewriting some projects from scratch while preserving their central ideas
 
 ---
 
