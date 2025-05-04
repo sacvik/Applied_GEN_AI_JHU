@@ -34,8 +34,4 @@ The purpose of this repository is not just to showcase coursework, but to demons
 ## 🤝 Contributions & Feedback
 
 Feedback, suggestions, or collaboration ideas?
-Feel free to open an issue or drop a pull request! Let’s build something impactful together.
-
----
-
-Let me know if you'd like to add project-specific sections, badges, or visuals!
+Feel free to open an issue or drop a pull request! Let’s build something impactful together
