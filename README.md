@@ -1,7 +1,3 @@
-Here’s a more polished and eye-catching version of your README markdown content, with improved formatting, grammar, and structure to make it appealing and professional:
-
----
-
 # 🚀 Applied GEN AI Projects – JHU
 
 Welcome to the **Applied\_GEN\_AI\_JHU** repository!
